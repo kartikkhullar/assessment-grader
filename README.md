@@ -55,7 +55,7 @@ npm start
 
 ## Screenshots
 
-![Home Page](https://github.com/kartikkhullar/online-assessment-grader/blob/main/screenshots/app1.PNG)
+![Home Page](https://github.com/kartikkhullar/assessment-grader/blob/main/screenshots/app1.PNG)
 
 
-![Login Page](https://github.com/kartikkhullar/online-assessment-grader/blob/main/screenshots/app2.PNG)
+![Login Page](https://github.com/kartikkhullar/assessment-grader/blob/main/screenshots/app2.PNG)
